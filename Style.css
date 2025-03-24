@@ -1,0 +1,80 @@
+header{
+
+    height: 60px;
+    margin-top: 40px;
+}
+
+li{
+
+    list-style: none;
+    display: inline;
+    margin: 30px;
+    color: white;
+
+}
+
+a{
+    
+    text-decoration: none;
+    color: white;
+}
+
+img{
+    position: absolute;
+}
+.b:hover{
+
+    color: rgb(0, 32, 128);
+
+}
+
+.iconos{
+
+    position: relative;
+    padding-left: 80%;
+    margin-top: -40px;
+
+}
+
+button{
+
+    width: 200px;
+    height: 45px;
+    border-radius: 20px;
+    background: transparent;
+    border-color: dimgray;
+
+}
+
+body{
+
+    background-image: url(img/Escritorio\ 2025-03-21\ at\ 16.24.54.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    width: 101,0%;
+    margin-left: -10px;
+    margin-bottom: -10px;
+    margin-top: 10px;
+    margin-right: -10px;
+color: aliceblue;
+}
+
+button,p, h1{
+
+    margin-left: 10px;
+    color: rgb(153, 153, 153);
+}
+
+.contenedor{
+    padding-top: 12%;
+    margin-left: 10%;
+}
+
+h1{
+
+font-family: Arial, Helvetica, sans-serif;
+color: aliceblue;
+
+}
